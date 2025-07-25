@@ -8,7 +8,7 @@ export default function Card() {
           {/* Profile Image */}
           <img
             className="w-24 h-24 rounded-full shadow-lg mb-4"
-            src="./photo.jpg" // 👈 Make sure this image is in your /public folder
+            src="./photo.jpg" // 
             alt="Lokesh Gopal"
           />
 
